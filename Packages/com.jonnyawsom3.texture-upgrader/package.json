@@ -2,7 +2,7 @@
   "name": "com.jonnyawsom3.texture-upgrader",
   "displayName": "Jonny's Texture Upgrader",
   "version": "0.1.0",
-  "description": "A Unity script that automatically upgrades textures with minimal VRAM cost",
+  "description": "A Unity script that automatically upgrades texture quality on PC with minimal VRAM cost.",
   "gitDependencies": {},
   "vpmDependencies": {},
   "author": {
