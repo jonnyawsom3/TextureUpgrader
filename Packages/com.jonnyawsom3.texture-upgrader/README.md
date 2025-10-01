@@ -1,1 +1,1 @@
-# com.jonnyawsom3.texture-upgrader by jonat
+# Texture Upgrader by Jonnyawsom3
