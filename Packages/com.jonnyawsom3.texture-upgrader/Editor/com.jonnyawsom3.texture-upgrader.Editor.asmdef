@@ -1,0 +1,14 @@
+{
+  "name": "com.jonnyawsom3.texture-upgrader.Editor",
+  "references": [
+    "com.jonnyawsom3.texture-upgrader"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "defineConstraints": [],
+  "optionalUnityReferences": []
+}
