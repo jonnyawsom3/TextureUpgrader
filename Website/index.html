@@ -12,11 +12,7 @@
   <div class="col align-items-center content">
     <div id="listingInfo" class="col mb-4 w-100 align-items-center">
       {{~ if listingInfo.BannerImage; ~}}
-      <picture class="bannerImage" style="display:block;width:100%">
-        <source srcset="Organic.jxl" type="image/jxl">
-        <img src="banner.png" alt="Banner" style="width:100%">
-      </picture>
-
+        <div class="bannerImage" style="background-image: url({{ listingInfo.BannerImageUrl }})"></div>
       {{~ end; ~}}
       <h1>
         {{~ listingInfo.Name ~}}
