@@ -3,7 +3,7 @@
   "references": [
     "com.jonnyawsom3.texture-upgrader"
   ],
-  "includePlatforms": [],
+  "includePlatforms": ["Editor"],
   "excludePlatforms": [],
   "allowUnsafeCode": false,
   "autoReferenced": true,
@@ -11,4 +11,5 @@
   "precompiledReferences": [],
   "defineConstraints": [],
   "optionalUnityReferences": []
+
 }
